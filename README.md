@@ -1,6 +1,6 @@
 # Teams Meeting Summarizer
 
-AI101 Capstone
+AI101 Capstone - Zach Falter, Alan Scott, Brandon Hoang
 
 ## Setup
 
@@ -51,15 +51,15 @@ Work through the features one by one, in the order of your choosing. Make sure t
 ## Import Note
 * a module at `src/books.py` is importable
 as `from books import ...` from a test file at
-`tests/test_books.py`. 
+`tests/test_books.py`.
 * The pytest config sets `pythonpath = ["src"]`
 so this works without packaging.
 
 
 ## Prompt
 
-* I want to create a program that will summarize a word document transcript from a microsoft teams meeting
-* Follow the 3 Rules of TDD. 
+* I want to do create a program that will summarize a word document transcript from a microsoft teams meeting
+* Follow the 3 Rules of TDD.
   * After test is created ask user to confirm the correctness of the test itself and whether test fails as expected. (RED)
   * After production code is added ask user to confirm that all tests pass. (GREEN)
   * During refactor phase make suggestions to user. Ask user to confirm proposals and/or do own refactoring. (REFACTOR)
