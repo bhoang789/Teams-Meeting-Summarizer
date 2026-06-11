@@ -44,16 +44,7 @@ Work through the features one by one, in the order of your choosing. Make sure t
 | `requirements.txt` | Project dependencies (pytest) |
 | `src/` | Your implementation. Empty — you'll create modules here as tests demand them. |
 | `tests/` | Your tests. Empty — same. |
-| `features/books.feature` | Gherkin scenarios for L1–L3 exercises |
-| `features/remove-and-filter.feature` | Feature-handover exercise for L4 |
-
-
-## Import Note
-* a module at `src/books.py` is importable
-as `from books import ...` from a test file at
-`tests/test_books.py`.
-* The pytest config sets `pythonpath = ["src"]`
-so this works without packaging.
+| `features/gensummary.feature` |
 
 
 ## Prompt
