@@ -58,7 +58,7 @@ so this works without packaging.
 
 ## Prompt
 
-* I want to do create a program that will summarize a word document transcript from a microsoft teams meeting
+* I want to create a program that will summarize a word document transcript from a microsoft teams meeting
 * Follow the 3 Rules of TDD. 
   * After test is created ask user to confirm the correctness of the test itself and whether test fails as expected. (RED)
   * After production code is added ask user to confirm that all tests pass. (GREEN)
