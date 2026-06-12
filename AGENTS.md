@@ -10,5 +10,7 @@
   - `src/` – Application source code
   - `docs/` – All documentation
   - `tests/` – Unit, Integration, and Playwright tests
-  - `resources/` - Contains features that are to be implemented
+  - `resources/` - Contains features and templates that are to be implemented
 # Reference the /features folder when in doubt for additional context
+
+# You can edit the requirement.txt to add any resources you need
